@@ -8,4 +8,4 @@ This software is under GNU General Public License version 3.0 (GPLv3)
 
 This code is a demo of method described by the following publication: Zhu, Y. and Ting, K.M., 2021, July. Improving the Effectiveness and Efficiency of Stochastic Neighbour Embedding with Isolation Kernel. Journal of Artificial Intelligence Research.
 
-The preprint version can be obtained at: https://arxiv.org/abs/1906.09744
+The published version can be obtained at: https://jair.org/index.php/jair/article/view/12904
