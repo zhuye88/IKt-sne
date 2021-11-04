@@ -12,7 +12,7 @@ The published version can be obtained at: https://jair.org/index.php/jair/articl
 
 ## Visualization Examples
 
-**Simply replacing Gaussian kernel with Isolation kernel in t-SNE significantly improves thequality of the final visualisation output (without creating misrepresented structures) and removes one key obstacle that prevents t-SNE from processing large datasets.**
+<em>Simply replacing Gaussian kernel with Isolation kernel in t-SNE significantly improves thequality of the final visualisation output (without creating misrepresented structures) and removes one key obstacle that prevents t-SNE from processing large datasets.<em>
 
 
 ![plot](demo.png)
