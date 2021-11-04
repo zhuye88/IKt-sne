@@ -12,4 +12,4 @@ The published version can be obtained at: https://jair.org/index.php/jair/articl
 
 ## Visualization Examples
 
-![plot](gallery/demo.png)
+![plot](demo.png)
